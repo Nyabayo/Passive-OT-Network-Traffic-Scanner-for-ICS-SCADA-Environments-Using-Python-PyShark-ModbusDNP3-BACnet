@@ -185,7 +185,7 @@ if __name__ == "__main__":
 git clone https://github.com/Nyabayo/Passive-OT-Network-Traffic-Scanner-for-ICS-SCADA-Environments-Using-Python-PyShark-ModbusDNP3-BACnet.git
 
 # Navigate into the directory
-cd Passive-OT-Network-Traffic-Scanner-for-ICS-SCADA-Environments-Using-Python-PyShark-Modbus-DNP3-BACnet
+cd Passive-OT-Network-Traffic-Scanner-for-ICS-SCADA-Environments-Using-Python-PyShark-ModbusDNP3-BACnet.git
 
 # Install dependencies
 pip install pyshark
