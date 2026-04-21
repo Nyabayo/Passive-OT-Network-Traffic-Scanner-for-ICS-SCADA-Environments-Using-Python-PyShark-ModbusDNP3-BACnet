@@ -87,7 +87,6 @@ OT Environment
 Passive-OT-Network-Traffic-Scanner/
 │
 ├── ot_final.py          # Main passive scanning script
-├── ot_scan_log.txt      # Auto-generated log file (created on first run)
 └── README.md            # Project documentation
 ```
 
@@ -183,7 +182,7 @@ if __name__ == "__main__":
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Passive-OT-Network-Traffic-Scanner-for-ICS-SCADA-Environments-Using-Python-PyShark-Modbus-DNP3-BACnet.git
+git clone https://github.com/Nyabayo/Passive-OT-Network-Traffic-Scanner-for-ICS-SCADA-Environments-Using-Python-PyShark-ModbusDNP3-BACnet.git
 
 # Navigate into the directory
 cd Passive-OT-Network-Traffic-Scanner-for-ICS-SCADA-Environments-Using-Python-PyShark-Modbus-DNP3-BACnet
